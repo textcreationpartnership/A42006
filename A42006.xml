@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few plain words to the inhabitants of England</title>
+            <author>Greene, Thomas, 1634?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42006</idno>
+            <idno type="STC">Wing G1842</idno>
+            <idno type="STC">ESTC R39466</idno>
+            <idno type="EEBO-CITATION">18420728</idno>
+            <idno type="OCLC">ocm 18420728</idno>
+            <idno type="VID">107543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1634:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few plain words to the inhabitants of England</title>
+                  <author>Greene, Thomas, 1634?-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Thomas Green.</note>
+                  <note>Imprint from colophon, place of publication suggested by Wing.</note>
+                  <note>Imperfect: stained and slightly faded.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:107543:1" rendition="simple:additions"/>
+            <head>A few plain words to the Inhabitants of <hi>ENGLAND</hi>
+            </head>
+            <p>O <hi>England, England,</hi> thy Viſitation is nigh over, thy day is well nigh paſt, thou haſt been an Adulterous Nation, and haſt run up and down to change thy way, and hath loathed the Hony and the Hony Comb, and wouldeſt not take counſel of the Lord, but haſt committed the two great evils in forſaking the Lord the living Fountaine, from which thou mighteſt have received life, and peace, and haſt diged unto thy ſelf broken Ceſterns wherein life, and peace is not retained; Oh <hi>England, England,</hi> thy ſorrow is com<g ref="char:EOLhyphen"/>ing, and thy deſtruction is neare, pain ſhall ſeize upon thee as a Wo<g ref="char:EOLhyphen"/>man in travel, anguiſh and trouble of Spirit ſhall take hold of thee, and thou ſhalt weep and mourn with ſorrow of heart, and there ſhall <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e none to comfort thee, but thou ſhalt be a hiſing to all Nations round about thee, thou ſhalt be called no more the Lady of Kingdoms, thy valient men ſhall faile thee, and thy mighty men ſhall become weak, and thy ſtrong men ſhall loſe their courage, they ſhall be amazed one at another, thy mighty ſhall ſtumble at thy mighty, and they ſhall both fall together, and there ſhall be none to deliver thee; Oh <hi>England, England,</hi> oh that thou wouldſt have took counſel of the Lord the holy one of <hi>Iſrael,</hi> thy maker that formed thee in the womb, that brought thee forth, and made thee become a ſtrong Nation, even a terror to all Nations round about thee, who have heard of thy fame, when thy God the God of <hi>Iacob</hi> was on thy ſide, then there was no Inchantment nor evil divinations, nor no weapons that were formed againſt thee, pro<g ref="char:EOLhyphen"/>ſpered, but with thee did thy maker make War againſt them that were more wicked then thee, and thou waſt as his battel Axe; with thee thy God did overturne the Horſe and his Rider, and thy name was famous amongſt the Nations, and a dread to the foraigne Countrys, and an aſtoniſhment to the Heathen, that knew not thy God: Oh <hi>England, England,</hi> how haſt thou forgot thy God that hath done thus wonderfully for thee, and by thee, and haſt not walked anſwerable ac<g ref="char:EOLhyphen"/>cording
+<pb n="2" facs="tcp:107543:2"/>
+to thy great mercys that thy God hath beſtowed upon thee, but hath waxed fat, and kicked againſt thy maker, and hath forgotten him and haſt gloryed in thy ſhame, and hath minded earthly things, and haſt exalted thy own horn and art joyning thy ſelf to Idols, and haſt hated his reproofe, and haſt caſt his righteous Law behinde thy back, and haſt promiſed liberty to others when thou thy ſelf haſt been a ſervant to corruption, being departed out of his counſel, and art be<g ref="char:EOLhyphen"/>come vaine in thy imaginations, &amp; ſo now darkneſs is come over thee, and thick darkneſs hath covered thee, for thou haſt rejected his light even Chriſt Jeſus, by which thou mighteſt have known ſalvation, and mighteſt have been reconciled to thy Maker, and mighteſt have known perpetual peace, but inſtead of anſwering the Lord according to his great mercys beſtowed upon thee, thou art turned againſt him, and them that purely ſtands in his counſel, who keeps the word of his pa<g ref="char:EOLhyphen"/>tience, and hath the teſtimony of his Son Chriſt Jeſus, who for de<g ref="char:EOLhyphen"/>parting from iniquity are made a prey of by thee, and now thou art bereaved of ſenſe, and art curſing that which God hath bleſſed, and art laying the ſword upon the Righteous, and art making decrees againſt the upright, and now the proud are called happy and they that tempt the Lord are delivered and the Innocent lyeth oppreſſed, and none layeth it to heart: Oh, Deſolation, deſolation ſhall come upon thee, leanneſs ſhall enter into thee, feebleneſs ſhall ſurprize thee, thy knees ſhall ſmite together, and thy life ſhall be a burthen to thee, becauſe of the deſolation that is coming upon thee, becauſe of the Abomina<g ref="char:EOLhyphen"/>tions that are committed in thee, oh if the things which have been done in thee, had been done in <hi>Sodom</hi> and <hi>Gomorah,</hi> ſurely they would have Repented; Oh, <hi>England, England,</hi> my Native Country, I am in ſorrow for thee becauſe of the deſtruction that is coming upon thee, from which none can deliver thee, ye the Overflowing Scourge is coming which is in the hand of the Almighty, which will not ſpare neither thy Noble, nor thy Ignoble, that are gone out of his Coun<g ref="char:EOLhyphen"/>ſels, and are committing Adultry with other lovers, and art cover<g ref="char:EOLhyphen"/>ing thy ſelf but not with the pure ſpirit of the Lord; therefore Woe, woe and miſery ſhall come upon thee, and thy Sacrifices ſhall be ſpread as dung on thy face, ye all that thou doſt is abomination to the Lord, and all thy Worſhips which thou haſt and art inventing he ab<g ref="char:EOLhyphen"/>hors, and it is all abomination to the pure God, and he is weary to bear them, for thou liveſt in all unrighteouſneſs, yet thou makes mention of the name of the Lord to take away thy reproach, but thy
+<pb n="3" facs="tcp:107543:2"/>
+covering is to narrow, the Lord hath beheld thee, ye all thy Actions are naked and bare before him, and from the wrath which is coming upon thee thou canſt not eſcape neither canſt thou be delivered from the ſtroak of his hand, neither ſhalt thou ſave thy ſelf, neither each deliver his brother, but all within thy borders that are gone out of the Counſel of the Lord, ſhall be cut off from amongſt thee, and theſe things ſhall come upon thee becauſe of thy Iniquitys, thou haſt for a long time mocked the Lord, as if he was ſuch a one as thy ſelf, thou haſt drew neer to him with thy Lips but thy heart hath been excerci<g ref="char:EOLhyphen"/>ſed with all unrighteouſneſs, pride and oppreſſion, and all wickedneſs hath abounded in thee, and though thy God hath ſtrove with thee from time to time, by his good ſpirit in thee, but thou haſt not regar<g ref="char:EOLhyphen"/>ded but hath ruſhed into Iniquity as a horſe into the Battel, and he hath alſo raiſed and called his Children from amongſt thee to bare teſti<g ref="char:EOLhyphen"/>mony againſt the evil that is committed in thee, and them thou haſt whiped and ſtoned, and caſt into Priſons, even many until death, and ye thou haſt not hearkened unto the Lord, but haſt ſtrengthened the hands of the evil doers, and haſt made the hearts of the righteous ſad whom the Lord hath not made ſad, and haſt cryed peace, peace, but, now behold ſudden deſtruction is coming upon thee, therefore now all who fears the Lord, come out from amongſt them, and be ye ſepera<g ref="char:EOLhyphen"/>ted from them, that he may preſerve you, for there are a few, ye a remnant that are come out of thee, that worſhips the true God in his ſpirit which they have received from him, and them will the Lord leave in the midſt of thee an afflicted and poor people, and they ſhall truſt in the name of the Lord, and ſhall not do Iniquity nor ſpeak lyes, neither ſhall a deceitful tongue be found in their mouths, for they ſhall feed and ly down, and none ſhall make afraid: Oh <hi>England, England,</hi> the Land of my Nativity thou muſt drink deep at the hand of the Lords wrath poured out without mixture, from the preſence of the Lamb, ye all who have received the marke of the Beaſt muſt go into the Lake for ever, and ever, even all but thoſe whoſe names are written in the Lambs Book of life; this is true and ſhall ſtand though the full end be not yet.</p>
+            <closer>
+               <dateline>From the Common Goale in <hi>Bedford</hi> 
+                  <date>the 11th. <hi>of the</hi> 2d. <hi>Month</hi> 1661.</date>
+               </dateline>
+               <signed>By a friend to the Lambs follow<g ref="char:EOLhyphen"/>ers who feeds in the Sheapheards Tent, and their lyeth down out of all fear, but only of the Lord.
+<hi>Thomas Green.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <pb n="4" facs="tcp:107543:3"/>
+            <p>THe ſixth of the ſecond Month, <hi>1660.</hi> in the night ſeaſon was ſhewed me a Viſion as I lay upon my bed, in the ſilence of my ſpirit; I ſaw a Book opened, and looking into it, my heart was greived, and my Spirit in me was troubled, yet nevertheleſs in it I read, and in reading the glory of the world was preſented unto me, and much of it I might injoy, if I would joyn with the Princes thereof; and on the contrary if I would not joyn with them, that I ſhould be tormented and perſecuted exceedingly, then I pon<g ref="char:EOLhyphen"/>dred in my heart, and ſeriouſly conſider what the end of this matter might be, and I looked and beheld they that were with the Princes of this world were an exceeding numberleſs number of the great ones of the Earth, and a great and mighty people were they &amp; furious to behold, then I wayted to ſee further in the things, and I looked &amp; behold they ſtood upon a dry place, and I turned my head and I ſaw a great Pit and in it was no water, then it was ſhewed me, that if I joyned with them, then I ſhould fall and periſh, for want of water; Then another Book was opened and in it I ſaw a few which were come from amongſt the Princes of the Earth, and they were but a few, then I turned to ſee what was their ſtrength, and by what they were preſerved and ſupported againſt ſo mighty a people, and I looked, and be<g ref="char:EOLhyphen"/>held they ſtood together, and in the midſt of them was a River of water a<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clear as Chriſtal, and they all drank of the River, and was refreſhed, and they would not go from it, then ſome that were amongſt the great Multi<g ref="char:EOLhyphen"/>tude that were a thirſt came and drank, and were ſatisfied and never re<g ref="char:EOLhyphen"/>turned more to the great number, then I turned to the ſmall number, where the water was and I drank and was ſatisfied, then I was to call to them of the great number, and tell them where they might have water, that they might never thirſt more, then I (taſting of the water) ſaid certainly it is good to be here, ſoon after the numberleſs number ſought to deſtroy the few (who drank of the River and were ſatisfied) but they could not hurt them, for the Lord was with them, but the numberleſs number, who drank not of the River fell into their own Pit, and periſhed for want of water, then ſaid I is there any God like unto our God, nay, praiſe him for evermore.</p>
+            <closer>
+               <signed>Thomas Green.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>AS a mighty Hoſt in Pharaohs Coaſt, ſo do the wicked riſe,</l>
+               <l>But in the ſtrength of the living God we do them all deſpiſe,</l>
+               <l>Who as a beſeiged Citty ſo do they us beſet,</l>
+               <l>Yet in the power of the Lamb the victory we ſhall get,</l>
+               <l>
+                  <pb n="5" facs="tcp:107543:3"/>
+For our weapons they are tryed though not viſible to behold,</l>
+               <l>Which is the Spirit of the mighty God, this makes us very bold,</l>
+               <l>And with this ſpirit we Pray, and with underſtanding Sing</l>
+               <l>Unto the living God, who is be come our King,</l>
+               <l>His word is in our hearts with his Septer he doth us ſway,</l>
+               <l>And by his power hath us preſerved unto this very day,</l>
+               <l>Worthy worthy is he to Reigne, whoſe ſtrength is ever ſure,</l>
+               <l>And doth remaine World without end when time ſhall be no more,</l>
+               <l>Therefore let <hi>Sion</hi> now rejoyce, let <hi>Ieruſalem</hi> be glad,</l>
+               <l>For the Lord hath bowed down his eare and their cry he hath heard,</l>
+               <l>Although in Priſons cloſe, and in Dungeons they are ſhut,</l>
+               <l>Yet the Lord the mighty God he doth not them forget.</l>
+            </lg>
+            <closer>
+               <signed>T. G.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To you Travellers in <hi>Sion,</hi> and to you Mourners therein to you I ſend Salvation.</head>
+            <p>FRiends you I have remembred, and the remembrance of you hath been ſweet unto me, and this is the word of the Lord unto ye deſpiſed ones, who have choſe the Lord the God of <hi>Iacob</hi> to be your God which came un<g ref="char:EOLhyphen"/>to me in the night ſeaſon when my heart was fixed on him, and my mind ſtayed in his inviſible gift, and as I meditated on him in the night wat<g ref="char:EOLhyphen"/>ches, Thus ſaith the Lord there is counſel with me I am the inſtructor of the ſimple, and will be ſtrength unto the weake, and my people ſhall know that I am God, and that there is none beſides me; for my left hand ſhall be under them, and with my right hand will I uphold them; I will be as a reſt in a weary land unto them, and as a refuge in the day of battel, and though they be feeble I will ſupport them, and weak yet will I give them ſtrength, and I will never leave them nor forſake them, and my Covenant concerning them ſhall never be broken, if man could break my Covenant with the day, that there ſhould not be day and night in its ſeaſon, then might they diſanul the Covenant that I made to <hi>Abraham</hi> and his ſeed for ever, but the ſeed ſhall indure for ever, and ſhall abide as the Sun before me, yet for all this they who have choſen me ſhall not goe untryed, for I will ſuffer them to be tryed that they may be proved yet will I preſerve the
+<pb n="6" facs="tcp:107543:4"/>
+faithful and the upright hearted, whoſe eye is at my glory, unto them my name ſhall be famous becauſe my power which is the higher power, they ſhall feel in their inward parts from which they ſhall ſpeak well of my name, and though their Enemies be many who as <hi>Jeroboam</hi> the Son of <hi>Neba<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> would cauſe them to ſin, ſaying their Imaginations are the Gods which brought us out of <hi>Egypt,</hi> but all ye that is upright hearted they ſhall never prevaile againſt you, for there is no Inchantments againſt <hi>Jacob,</hi> nor Divination againſt <hi>Iſrael</hi> but I behold it, and with my Light will ſhew it unto you, and will preſerve you out of the path that leads to the Chambers of Death, and will honour you amongſt the people, and Crown you with my Life that is immortal, and will ſill your ſouls with joy, and your hearts with gladneſs, even with a greater joy than that of Harveſt, therefore all ye weak ones, whoſe faces are ſet towards <hi>Sion</hi> and have turned your backs to <hi>Babylon,</hi> the City of Confuſion, and from all her Merchants, lift up your heads for the day is come and coming that the Lord will comfort the Mourners and give them beauty for aſhes, and a Garment of praiſe for the Spirit of Heavineſs, for it is praiſes that be<g ref="char:EOLhyphen"/>comes my houſe and with the high praiſes ſhall the upright be filled from the feeling of my life in their inward parts, and though their Enemies be many, and the Wicked ariſeth againſt them as a mighty Flood and ſeem to overflow them, yet will I ſcatter them as with an Eaſt wind, and I will plead with them in my fury, and in my hot diſpleaſure will I take vengeance at mine and your Enemies, and I will preſerve you, and will reward you double into your boſoms that are faithful unto me, therefore none be caſt down, for neither Walls, nor Locks, nor Bars can ſeperate me from you, but I will aſuredly be with you and will ſecretly uphold you, and will get my ſelf a name in you, by which Salvation ye ſhall know me, to be unto you as Walls and Bulworks, and ye ſhall count nothing dear to your ſelves, that ye may finiſh your courſe with joy, ſo bleſſed are ye up<g ref="char:EOLhyphen"/>right, yee ſhall ſtand in your lot at the end of the day but the deceitful and Rebellious ſhall dwell in a dry Land, and this is a faithful ſaluation to you all from a lover of Truth and Righteouſneſs, and a follower of the Lamb.</p>
+            <closer>
+               <signed>Your Friend
+<hi>Thomas Green.</hi>
+               </signed>
+               <dateline>Given fourth <date>the 14<hi>th.</hi> of the 6<hi>th.</hi> Month 1662.</date> in <hi>Colcheſter</hi> to be Read amongſt Friends,</dateline>
+            </closer>
+         </div>
+         <div type="statement">
+            <pb n="7" facs="tcp:107543:4" rendition="simple:additions"/>
+            <p>VVHen my Meditations were on my God, and my heart was cloſed and joyned to his eternal quickning ſpirit, and in it was waiting, then I caſt my eye to behold my ſuffering brethren; who ſuffers for the teſtimony of my God, and for keeping the word of his patience, then a pitty in my heart aroſe towards them w ho are dayly made a prey upon by unreaſonable men, then ſaid I Lord how long, how long will it be before thou reſtraine the wicked &amp; ſay unto them enough who dayly tread upon thy heritage, and lyeth in waite to de<g ref="char:EOLhyphen"/>voure them and ſwallow up them quick, who have choſe thee, the Lord of <hi>Iacob,</hi> the God of poor diſtreſſed <hi>Iſrael,</hi> to be their God; Thus ſaith the Lord the mighty God of <hi>Iacob</hi> fear not, fear not nei<g ref="char:EOLhyphen"/>ther be thou troubled, for I will deliver my ſeed, though at this time its very ſmall and lyeth as amongſt the clods of the Earth; I have heard, I have heard its cry, and its requeſt, I do regard and my eare hath liſtened, and I have taken notice of my Childrens mournings, and their tears, I have beheld, and uprightneſs in their hearts I have found, and their deſire is to do my will, and to anſwer my requirings, for my love hath gained their hearts, for I have ſearched them, and tryed ma<g ref="char:EOLhyphen"/>ny of them to the bottom, and I have found my excellent Spirit as in my ſervant <hi>Daniel,</hi> and its much regarded by them, and their de<g ref="char:EOLhyphen"/>light is to be guided by it, and they love me more then earthly glory, and have choſe me to be their God; Surely ſaith the Lord the mighty God of <hi>Iacob,</hi> I will never forget them, though the Mountains may depart, and though the Hills may be removed, yet my loving kind<g ref="char:EOLhyphen"/>neſs ſhall never depart from thoſe that fear me, nor my Covenant of mercy from my Seed for ever, though Hell and Death combind to<g ref="char:EOLhyphen"/>gether and cry a Confedracy, yet they ſhall never prevaile, neither ſhall they lay my Heritage waſt: Therefore now let all the upright in heart rejoyce, and let their ſouls praiſe the living God who will be a<g ref="char:EOLhyphen"/>venged of their Enemies, and of all that riſe up againſt them, and will ſcatter them as with an Eaſt-wind in his feirce indignation which is already kindled, for the Lord is awakened to jealouſie, and now is come to preſerve his little Flock that they may know his power, and feelé his everlaſting Arme to be revealed in them, for now will he be Salvation to the Righteous, and gladneſs to the pure in heart: The Time, the time, the time, the ſet time is come, that the Lord is come
+<pb n="8" facs="tcp:107543:5"/>
+to comfort the poor deſolate ones, and he will abide with them for e<g ref="char:EOLhyphen"/>ver, and in the Armes of his tender mercy will he preſerve them to his own glory, and to the comfort of their ſouls for ever, who in the life of the Lamb abide, Crowned with immortal life ſhall they be, and in time ſhall ſing the ſong of <hi>Moſes,</hi> and the Lamb even the Song of deliverance, and tryumph in their hearts over all that is contrary to the Lord, bleſſed are the faithful, and happy for ever ſhall they be that a<g ref="char:EOLhyphen"/>bides unto the end, and have always hold of the life thats eternal, with that to be kept, ſo will they finiſh their Courſe with joy, and lye down in peace in the Kingdom of Righteouſneſs; Let it be ſo ſaith my ſoul in the name of the Lord,</p>
+            <closer>Amen.</closer>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> W. M. 1662.</p>
+            <pb facs="tcp:107543:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
